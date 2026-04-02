@@ -10,8 +10,8 @@ keywords = ["json", "parser", "cli", "sysadmin"]
 categories = ["encoding", "command-line-utilities", "parser-implementations"]
 
 [dependencies]
-cj-core = { path = "../cj-core" }
-cj-utils = { path = "../cj-utils" }
+cj-core = { path = "../cj-core", version = "0.1.0" }
+cj-utils = { path = "../cj-utils", version = "0.1.0" }
 serde = { workspace = true }
 serde_json = { workspace = true }
 thiserror = { workspace = true }

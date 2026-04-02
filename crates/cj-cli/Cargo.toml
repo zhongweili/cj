@@ -14,9 +14,9 @@ name = "cj"
 path = "src/main.rs"
 
 [dependencies]
-cj-core = { path = "../cj-core" }
-cj-parsers = { path = "../cj-parsers" }
-cj-utils = { path = "../cj-utils" }
+cj-core = { path = "../cj-core", version = "0.1.0" }
+cj-parsers = { path = "../cj-parsers", version = "0.1.0" }
+cj-utils = { path = "../cj-utils", version = "0.1.0" }
 serde_json = { workspace = true }
 serde_yaml = "0.9"
 colored = "2"
