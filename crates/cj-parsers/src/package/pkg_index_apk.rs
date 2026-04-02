@@ -157,18 +157,11 @@ fn convert_package(raw: Map<String, Value>) -> Map<String, Value> {
 #[cfg(test)]
 mod tests {
     use super::*;
-    use std::fs;
 
     #[test]
     fn test_pkg_index_apk_fixture() {
-        let fixture_out = fs::read_to_string(
-            "/Users/zhongwei/daily/2026-03-27/cj/tests/fixtures/generic/pkg-index-apk.out",
-        )
-        .expect("fixture .out not found");
-        let fixture_json = fs::read_to_string(
-            "/Users/zhongwei/daily/2026-03-27/cj/tests/fixtures/generic/pkg-index-apk.json",
-        )
-        .expect("fixture .json not found");
+        let fixture_out = include_str!("../../../../tests/fixtures/generic/pkg-index-apk.out");
+        let fixture_json = include_str!("../../../../tests/fixtures/generic/pkg-index-apk.json");
 
         let parser = PkgIndexApkParser;
         let result = parser.parse(&fixture_out, false).unwrap();

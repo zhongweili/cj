@@ -165,7 +165,6 @@ fn process(raw: Vec<Map<String, Value>>) -> Vec<Map<String, Value>> {
 #[cfg(test)]
 mod tests {
     use super::*;
-    use std::fs;
 
     #[test]
     fn test_apt_cache_show_smoke() {
@@ -186,14 +185,10 @@ mod tests {
 
     #[test]
     fn test_apt_cache_show_fixture() {
-        let fixture_out = fs::read_to_string(
-            "/Users/zhongwei/daily/2026-03-27/cj/tests/fixtures/generic/apt_cache_show--standard.out",
-        )
-        .expect("fixture .out not found");
-        let fixture_json = fs::read_to_string(
-            "/Users/zhongwei/daily/2026-03-27/cj/tests/fixtures/generic/apt_cache_show--standard.json",
-        )
-        .expect("fixture .json not found");
+        let fixture_out =
+            include_str!("../../../../tests/fixtures/generic/apt_cache_show--standard.out");
+        let fixture_json =
+            include_str!("../../../../tests/fixtures/generic/apt_cache_show--standard.json");
 
         let parser = AptCacheShowParser;
         let result = parser.parse(&fixture_out, false).unwrap();

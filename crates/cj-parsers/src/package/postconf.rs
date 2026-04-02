@@ -122,18 +122,11 @@ fn process_entry(entry: &mut Map<String, Value>) {
 #[cfg(test)]
 mod tests {
     use super::*;
-    use std::fs;
 
     #[test]
     fn test_postconf_fixture() {
-        let fixture_out = fs::read_to_string(
-            "/Users/zhongwei/daily/2026-03-27/cj/tests/fixtures/generic/postconf-M.out",
-        )
-        .expect("fixture .out not found");
-        let fixture_json = fs::read_to_string(
-            "/Users/zhongwei/daily/2026-03-27/cj/tests/fixtures/generic/postconf-M.json",
-        )
-        .expect("fixture .json not found");
+        let fixture_out = include_str!("../../../../tests/fixtures/generic/postconf-M.out");
+        let fixture_json = include_str!("../../../../tests/fixtures/generic/postconf-M.json");
 
         let parser = PostconfParser;
         let result = parser.parse(&fixture_out, false).unwrap();

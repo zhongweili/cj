@@ -123,18 +123,13 @@ impl Parser for AptGetSqqParser {
 #[cfg(test)]
 mod tests {
     use super::*;
-    use std::fs;
 
     #[test]
     fn test_apt_get_sqq_fixture() {
-        let fixture_out = fs::read_to_string(
-            "/Users/zhongwei/daily/2026-03-27/cj/tests/fixtures/generic/apt_get_sqq--sample.out",
-        )
-        .expect("fixture .out not found");
-        let fixture_json = fs::read_to_string(
-            "/Users/zhongwei/daily/2026-03-27/cj/tests/fixtures/generic/apt_get_sqq--sample.json",
-        )
-        .expect("fixture .json not found");
+        let fixture_out =
+            include_str!("../../../../tests/fixtures/generic/apt_get_sqq--sample.out");
+        let fixture_json =
+            include_str!("../../../../tests/fixtures/generic/apt_get_sqq--sample.json");
 
         let parser = AptGetSqqParser;
         let result = parser.parse(&fixture_out, false).unwrap();

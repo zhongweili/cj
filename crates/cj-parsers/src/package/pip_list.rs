@@ -94,7 +94,6 @@ impl Parser for PipListParser {
 #[cfg(test)]
 mod tests {
     use super::*;
-    use std::fs;
 
     #[test]
     fn test_pip_list_table() {
@@ -125,14 +124,8 @@ mod tests {
 
     #[test]
     fn test_pip_list_fixture() {
-        let fixture_out = fs::read_to_string(
-            "/Users/zhongwei/daily/2026-03-27/cj/tests/fixtures/ubuntu-18.04/pip-list.out",
-        )
-        .expect("fixture .out not found");
-        let fixture_json = fs::read_to_string(
-            "/Users/zhongwei/daily/2026-03-27/cj/tests/fixtures/ubuntu-18.04/pip-list.json",
-        )
-        .expect("fixture .json not found");
+        let fixture_out = include_str!("../../../../tests/fixtures/ubuntu-18.04/pip-list.out");
+        let fixture_json = include_str!("../../../../tests/fixtures/ubuntu-18.04/pip-list.json");
 
         let parser = PipListParser;
         let result = parser.parse(&fixture_out, false).unwrap();

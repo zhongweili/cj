@@ -89,18 +89,11 @@ impl Parser for DebconfShowParser {
 #[cfg(test)]
 mod tests {
     use super::*;
-    use std::fs;
 
     #[test]
     fn test_debconf_show_fixture() {
-        let fixture_out = fs::read_to_string(
-            "/Users/zhongwei/daily/2026-03-27/cj/tests/fixtures/generic/debconf-show.out",
-        )
-        .expect("fixture .out not found");
-        let fixture_json = fs::read_to_string(
-            "/Users/zhongwei/daily/2026-03-27/cj/tests/fixtures/generic/debconf-show.json",
-        )
-        .expect("fixture .json not found");
+        let fixture_out = include_str!("../../../../tests/fixtures/generic/debconf-show.out");
+        let fixture_json = include_str!("../../../../tests/fixtures/generic/debconf-show.json");
 
         let parser = DebconfShowParser;
         let result = parser.parse(&fixture_out, false).unwrap();

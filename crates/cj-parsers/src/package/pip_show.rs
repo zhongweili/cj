@@ -125,7 +125,6 @@ impl Parser for PipShowParser {
 #[cfg(test)]
 mod tests {
     use super::*;
-    use std::fs;
 
     #[test]
     fn test_pip_show_smoke() {
@@ -143,14 +142,8 @@ mod tests {
 
     #[test]
     fn test_pip_show_fixture() {
-        let fixture_out = fs::read_to_string(
-            "/Users/zhongwei/daily/2026-03-27/cj/tests/fixtures/centos-7.7/pip-show.out",
-        )
-        .expect("fixture .out not found");
-        let fixture_json = fs::read_to_string(
-            "/Users/zhongwei/daily/2026-03-27/cj/tests/fixtures/centos-7.7/pip-show.json",
-        )
-        .expect("fixture .json not found");
+        let fixture_out = include_str!("../../../../tests/fixtures/centos-7.7/pip-show.out");
+        let fixture_json = include_str!("../../../../tests/fixtures/centos-7.7/pip-show.json");
 
         let parser = PipShowParser;
         let result = parser.parse(&fixture_out, false).unwrap();
