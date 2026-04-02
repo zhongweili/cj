@@ -16,3 +16,6 @@ serde_json = { workspace = true }
 chrono = { version = "0.4", features = ["serde"] }
 regex = "1"
 lru = "0.12"
+
+[lints]
+workspace = true

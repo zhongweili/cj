@@ -305,10 +305,10 @@ pub fn parse_timestamp(input: &str, format_hint: Option<&str>) -> TimestampResul
     let cache_key = (input.to_string(), format_hint.map(|s| s.to_string()));
 
     // Check cache
-    if let Ok(mut c) = cache().lock() {
-        if let Some(cached) = c.get(&cache_key) {
-            return cached.clone();
-        }
+    if let Ok(mut c) = cache().lock()
+        && let Some(cached) = c.get(&cache_key)
+    {
+        return cached.clone();
     }
 
     let result = do_parse(input, format_hint);

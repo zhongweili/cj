@@ -87,7 +87,8 @@ pub fn is_slice(s: &str) -> bool {
         return false;
     }
     // Pattern: -?[0-9]*:-?[0-9]*
-    let re_like = {
+
+    {
         let parts: Vec<&str> = s.splitn(2, ':').collect();
         if parts.len() != 2 {
             return false;
@@ -102,8 +103,7 @@ pub fn is_slice(s: &str) -> bool {
             !p.is_empty() && p.chars().all(|c| c.is_ascii_digit())
         };
         valid_part(left) && valid_part(right)
-    };
-    re_like
+    }
 }
 
 /// Parse argv (excluding argv[0]) into an `Args` struct.
@@ -169,16 +169,14 @@ pub fn parse_args(argv: &[String]) -> Args {
             break;
         }
 
-        if valid_magic {
-            if let Some(start) = magic_start_idx {
-                let cmd_words: Vec<String> = remaining[start..].to_vec();
-                if !cmd_words.is_empty() {
-                    args.magic_command = Some(cmd_words);
-                    magic_mode = true;
-                    option_chars.extend(&magic_options);
-                    if let Some(s) = slice_found {
-                        args.slice_str = Some(s);
-                    }
+        if valid_magic && let Some(start) = magic_start_idx {
+            let cmd_words: Vec<String> = remaining[start..].to_vec();
+            if !cmd_words.is_empty() {
+                args.magic_command = Some(cmd_words);
+                magic_mode = true;
+                option_chars.extend(&magic_options);
+                if let Some(s) = slice_found {
+                    args.slice_str = Some(s);
                 }
             }
         }

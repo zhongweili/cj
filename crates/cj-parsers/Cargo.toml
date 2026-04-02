@@ -27,3 +27,6 @@ url = "2"
 base64 = "0.22"
 percent-encoding = "2"
 chrono = { version = "0.4", features = ["serde"] }
+
+[lints]
+workspace = true

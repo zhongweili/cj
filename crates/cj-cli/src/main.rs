@@ -375,33 +375,33 @@ fn run() -> i32 {
             print_help_categories();
         } else {
             // If a parser name was given, show parser-specific help
-            if let Some(ref pname) = args.parser_name {
-                if let Some(parser) = find_parser(pname) {
-                    let info = parser.info();
-                    println!("{}\n", info.description);
-                    println!("Parser:        {}", info.argument);
-                    println!("Version:       {}", info.version);
-                    println!("Author:        {} ({})", info.author, info.author_email);
-                    let compat: Vec<&str> = info
-                        .compatible
-                        .iter()
-                        .map(|p| match p {
-                            cj_core::types::Platform::Linux => "linux",
-                            cj_core::types::Platform::Darwin => "darwin",
-                            cj_core::types::Platform::Windows => "windows",
-                            cj_core::types::Platform::FreeBSD => "freebsd",
-                            cj_core::types::Platform::OpenBSD => "openbsd",
-                            cj_core::types::Platform::NetBSD => "netbsd",
-                            cj_core::types::Platform::Aix => "aix",
-                            cj_core::types::Platform::Universal => "universal",
-                        })
-                        .collect();
-                    println!("Compatible:    {}", compat.join(", "));
-                    if info.is_slurpable() {
-                        println!("\nThis parser can be used with the --slurp option.");
-                    }
-                    return EXIT_OK;
+            if let Some(ref pname) = args.parser_name
+                && let Some(parser) = find_parser(pname)
+            {
+                let info = parser.info();
+                println!("{}\n", info.description);
+                println!("Parser:        {}", info.argument);
+                println!("Version:       {}", info.version);
+                println!("Author:        {} ({})", info.author, info.author_email);
+                let compat: Vec<&str> = info
+                    .compatible
+                    .iter()
+                    .map(|p| match p {
+                        cj_core::types::Platform::Linux => "linux",
+                        cj_core::types::Platform::Darwin => "darwin",
+                        cj_core::types::Platform::Windows => "windows",
+                        cj_core::types::Platform::FreeBSD => "freebsd",
+                        cj_core::types::Platform::OpenBSD => "openbsd",
+                        cj_core::types::Platform::NetBSD => "netbsd",
+                        cj_core::types::Platform::Aix => "aix",
+                        cj_core::types::Platform::Universal => "universal",
+                    })
+                    .collect();
+                println!("Compatible:    {}", compat.join(", "));
+                if info.is_slurpable() {
+                    println!("\nThis parser can be used with the --slurp option.");
                 }
+                return EXIT_OK;
             }
             print_help(args.show_hidden);
         }
@@ -566,11 +566,11 @@ fn run() -> i32 {
             meta_info.magic_command = Some(cmd.clone());
             meta_info.magic_command_exit = Some(magic_returncode);
         }
-        if let Some(ref s) = args.slice_str {
-            if let Ok((start, end)) = parse_slice(s) {
-                meta_info.slice_start = start;
-                meta_info.slice_end = end;
-            }
+        if let Some(ref s) = args.slice_str
+            && let Ok((start, end)) = parse_slice(s)
+        {
+            meta_info.slice_start = start;
+            meta_info.slice_end = end;
         }
         if let Some(ref il) = input_list {
             meta_info.input_list = Some(il.clone());
