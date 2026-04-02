@@ -83,6 +83,7 @@ mod tests {
     }
 
     #[test]
+    #[cfg(not(target_os = "windows"))]
     fn test_path_list_one_fixture() {
         let out_path = concat!(
             env!("CARGO_MANIFEST_DIR"),
@@ -103,6 +104,7 @@ mod tests {
     }
 
     #[test]
+    #[cfg(not(target_os = "windows"))]
     fn test_path_list_two_fixture() {
         let out_path = concat!(
             env!("CARGO_MANIFEST_DIR"),

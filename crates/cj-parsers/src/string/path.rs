@@ -190,6 +190,7 @@ mod tests {
     }
 
     #[test]
+    #[cfg(not(target_os = "windows"))]
     fn test_path_basic() {
         let v = parse_to_value("/abc/def/gh.txt");
         assert_eq!(v["path"], "/abc/def/gh.txt");
@@ -204,6 +205,7 @@ mod tests {
     }
 
     #[test]
+    #[cfg(not(target_os = "windows"))]
     fn test_path_one_fixture() {
         let out_path = concat!(
             env!("CARGO_MANIFEST_DIR"),
@@ -223,6 +225,7 @@ mod tests {
     }
 
     #[test]
+    #[cfg(not(target_os = "windows"))]
     fn test_path_long_fixture() {
         let out_path = concat!(
             env!("CARGO_MANIFEST_DIR"),
