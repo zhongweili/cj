@@ -1,0 +1,256 @@
+[
+    {
+        "destination": "[::]/96",
+        "flags": "!n",
+        "flags_pretty": [
+            "REJECT"
+        ],
+        "iface": "lo",
+        "metric": 1024,
+        "next_hop": "[::]",
+        "ref": 0,
+        "use": 0
+    },
+    {
+        "destination": "0.0.0.0/96",
+        "flags": "!n",
+        "flags_pretty": [
+            "REJECT"
+        ],
+        "iface": "lo",
+        "metric": 1024,
+        "next_hop": "[::]",
+        "ref": 0,
+        "use": 0
+    },
+    {
+        "destination": "2002:a00::/24",
+        "flags": "!n",
+        "flags_pretty": [
+            "REJECT"
+        ],
+        "iface": "lo",
+        "metric": 1024,
+        "next_hop": "[::]",
+        "ref": 0,
+        "use": 0
+    },
+    {
+        "destination": "2002:7f00::/24",
+        "flags": "!n",
+        "flags_pretty": [
+            "REJECT"
+        ],
+        "iface": "lo",
+        "metric": 1024,
+        "next_hop": "[::]",
+        "ref": 0,
+        "use": 0
+    },
+    {
+        "destination": "2002:a9fe::/32",
+        "flags": "!n",
+        "flags_pretty": [
+            "REJECT"
+        ],
+        "iface": "lo",
+        "metric": 1024,
+        "next_hop": "[::]",
+        "ref": 0,
+        "use": 0
+    },
+    {
+        "destination": "2002:ac10::/28",
+        "flags": "!n",
+        "flags_pretty": [
+            "REJECT"
+        ],
+        "iface": "lo",
+        "metric": 1024,
+        "next_hop": "[::]",
+        "ref": 0,
+        "use": 0
+    },
+    {
+        "destination": "2002:c0a8::/32",
+        "flags": "!n",
+        "flags_pretty": [
+            "REJECT"
+        ],
+        "iface": "lo",
+        "metric": 1024,
+        "next_hop": "[::]",
+        "ref": 0,
+        "use": 0
+    },
+    {
+        "destination": "2002:e000::/19",
+        "flags": "!n",
+        "flags_pretty": [
+            "REJECT"
+        ],
+        "iface": "lo",
+        "metric": 1024,
+        "next_hop": "[::]",
+        "ref": 0,
+        "use": 0
+    },
+    {
+        "destination": "unknown000c293b580e.attlocal.net/128",
+        "flags": "U",
+        "flags_pretty": [
+            "UP"
+        ],
+        "iface": "ens33",
+        "metric": 100,
+        "next_hop": "[::]",
+        "ref": 0,
+        "use": 0
+    },
+    {
+        "destination": "2600:1700:bab0:d40::/64",
+        "flags": "U",
+        "flags_pretty": [
+            "UP"
+        ],
+        "iface": "ens33",
+        "metric": 100,
+        "next_hop": "[::]",
+        "ref": 1,
+        "use": 43
+    },
+    {
+        "destination": "2600:1700:bab0:d40::/60",
+        "flags": "UG",
+        "flags_pretty": [
+            "UP",
+            "GATEWAY"
+        ],
+        "iface": "ens33",
+        "metric": 100,
+        "next_hop": "gateway",
+        "ref": 0,
+        "use": 0
+    },
+    {
+        "destination": "3ffe:ffff::/32",
+        "flags": "!n",
+        "flags_pretty": [
+            "REJECT"
+        ],
+        "iface": "lo",
+        "metric": 1024,
+        "next_hop": "[::]",
+        "ref": 0,
+        "use": 0
+    },
+    {
+        "destination": "fe80::/64",
+        "flags": "U",
+        "flags_pretty": [
+            "UP"
+        ],
+        "iface": "ens33",
+        "metric": 100,
+        "next_hop": "[::]",
+        "ref": 0,
+        "use": 4
+    },
+    {
+        "destination": "[::]/0",
+        "flags": "UG",
+        "flags_pretty": [
+            "UP",
+            "GATEWAY"
+        ],
+        "iface": "ens33",
+        "metric": 100,
+        "next_hop": "gateway",
+        "ref": 1,
+        "use": 4
+    },
+    {
+        "destination": "[::]/0",
+        "flags": "!n",
+        "flags_pretty": [
+            "REJECT"
+        ],
+        "iface": "lo",
+        "metric": -1,
+        "next_hop": "[::]",
+        "ref": 1,
+        "use": 86
+    },
+    {
+        "destination": "localhost/128",
+        "flags": "Un",
+        "flags_pretty": [
+            "UP"
+        ],
+        "iface": "lo",
+        "metric": 0,
+        "next_hop": "[::]",
+        "ref": 2,
+        "use": 30
+    },
+    {
+        "destination": "unknown000c293b580e.attlocal.net/128",
+        "flags": "Un",
+        "flags_pretty": [
+            "UP"
+        ],
+        "iface": "lo",
+        "metric": 0,
+        "next_hop": "[::]",
+        "ref": 2,
+        "use": 4
+    },
+    {
+        "destination": "unknown000c293b580e.attlocal.net/128",
+        "flags": "Un",
+        "flags_pretty": [
+            "UP"
+        ],
+        "iface": "lo",
+        "metric": 0,
+        "next_hop": "[::]",
+        "ref": 1,
+        "use": 0
+    },
+    {
+        "destination": "unknown000c293b580e.attlocal.net/128",
+        "flags": "Un",
+        "flags_pretty": [
+            "UP"
+        ],
+        "iface": "lo",
+        "metric": 0,
+        "next_hop": "[::]",
+        "ref": 2,
+        "use": 8
+    },
+    {
+        "destination": "ff00::/8",
+        "flags": "U",
+        "flags_pretty": [
+            "UP"
+        ],
+        "iface": "ens33",
+        "metric": 256,
+        "next_hop": "[::]",
+        "ref": 1,
+        "use": 4
+    },
+    {
+        "destination": "[::]/0",
+        "flags": "!n",
+        "flags_pretty": [
+            "REJECT"
+        ],
+        "iface": "lo",
+        "metric": -1,
+        "next_hop": "[::]",
+        "ref": 1,
+        "use": 86
+    }
+]

@@ -1,0 +1,1898 @@
+[
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "kbrazil-mac.attlocal.net",
+    "login": "Tue Jan 5 14:29:24 2021",
+    "logout": "still logged in",
+    "login_epoch": 1609856964
+  },
+  {
+    "user": "kbrazil",
+    "tty": "tty1",
+    "hostname": null,
+    "login": "Tue Jan 5 14:28:41 2021",
+    "logout": "still logged in",
+    "login_epoch": 1609856921
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Tue Jan 5 14:28:28 2021",
+    "logout": "Tue Jan 5 14:29:36 2021",
+    "duration": "00:01",
+    "login_epoch": 1609856908,
+    "logout_epoch": 1609856976,
+    "duration_seconds": 68
+  },
+  {
+    "user": "kbrazil",
+    "tty": "tty1",
+    "hostname": null,
+    "login": "Mon Jan 4 12:29:04 2021",
+    "logout": "crash",
+    "duration": "25:59",
+    "login_epoch": 1609763344
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Mon Jan 4 12:11:44 2021",
+    "logout": "Tue Jan 5 14:29:36 2021",
+    "duration": "26:17",
+    "login_epoch": 1609762304,
+    "logout_epoch": 1609856976,
+    "duration_seconds": 94672
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "kbrazil-mac.attlocal.net",
+    "login": "Wed Dec 30 11:12:50 2020",
+    "logout": "crash",
+    "duration": "120:58",
+    "login_epoch": 1609326770
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Wed Dec 30 10:59:51 2020",
+    "logout": "Tue Jan 5 14:29:36 2021",
+    "duration": "147:29",
+    "login_epoch": 1609325991,
+    "logout_epoch": 1609856976,
+    "duration_seconds": 530985
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "kbrazil-mac.attlocal.net",
+    "login": "Tue Dec 29 10:14:19 2020",
+    "logout": "crash",
+    "duration": "24:45",
+    "login_epoch": 1609236859
+  },
+  {
+    "user": "kbrazil",
+    "tty": "tty1",
+    "hostname": null,
+    "login": "Tue Dec 29 10:11:44 2020",
+    "logout": "crash",
+    "duration": "24:48",
+    "login_epoch": 1609236704
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Tue Dec 29 10:11:28 2020",
+    "logout": "Tue Jan 5 14:29:36 2021",
+    "duration": "172:18",
+    "login_epoch": 1609236688,
+    "logout_epoch": 1609856976,
+    "duration_seconds": 620288
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "kbrazil-mac.attlocal.net",
+    "login": "Wed Aug 12 15:21:36 2020",
+    "logout": "crash",
+    "duration": "3331:49",
+    "login_epoch": 1597245696
+  },
+  {
+    "user": "kbrazil",
+    "tty": "tty1",
+    "hostname": null,
+    "login": "Wed Aug 12 15:08:20 2020",
+    "logout": "crash",
+    "duration": "3332:03",
+    "login_epoch": 1597244900
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Wed Aug 12 15:07:27 2020",
+    "logout": "Tue Jan 5 14:29:36 2021",
+    "duration": "3504:22",
+    "login_epoch": 1597244847,
+    "logout_epoch": 1609856976,
+    "duration_seconds": 12612129
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "kbrazil-mac.attlocal.net",
+    "login": "Tue Aug 4 09:39:30 2020",
+    "logout": "crash",
+    "duration": "197:27",
+    "login_epoch": 1596533970
+  },
+  {
+    "user": "kbrazil",
+    "tty": "tty1",
+    "hostname": null,
+    "login": "Tue Aug 4 09:39:01 2020",
+    "logout": "crash",
+    "duration": "197:28",
+    "login_epoch": 1596533941
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Tue Aug 4 09:30:24 2020",
+    "logout": "Tue Jan 5 14:29:36 2021",
+    "duration": "3701:59",
+    "login_epoch": 1596533424,
+    "logout_epoch": 1609856976,
+    "duration_seconds": 13323552
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "kbrazil-mac.attlocal.net",
+    "login": "Sat Aug 1 08:58:14 2020",
+    "logout": "crash",
+    "duration": "72:32",
+    "login_epoch": 1596272294
+  },
+  {
+    "user": "kbrazil",
+    "tty": "tty1",
+    "hostname": null,
+    "login": "Fri Jul 31 13:55:56 2020",
+    "logout": "crash",
+    "duration": "91:34",
+    "login_epoch": 1596203756
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Fri Jul 31 13:55:35 2020",
+    "logout": "Tue Jan 5 14:29:36 2021",
+    "duration": "3793:34",
+    "login_epoch": 1596203735,
+    "logout_epoch": 1609856976,
+    "duration_seconds": 13653241
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "kbrazil-mac.attlocal.net",
+    "login": "Thu Jul 30 08:34:03 2020",
+    "logout": "crash",
+    "duration": "29:21",
+    "login_epoch": 1596098043
+  },
+  {
+    "user": "kbrazil",
+    "tty": "tty1",
+    "hostname": null,
+    "login": "Thu Jul 30 08:31:17 2020",
+    "logout": "crash",
+    "duration": "29:24",
+    "login_epoch": 1596097877
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Thu Jul 30 08:31:03 2020",
+    "logout": "Tue Jan 5 14:29:36 2021",
+    "duration": "3822:58",
+    "login_epoch": 1596097863,
+    "logout_epoch": 1609856976,
+    "duration_seconds": 13759113
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "kbrazil-mac.attlocal.net",
+    "login": "Tue Jul 28 19:23:39 2020",
+    "logout": "crash",
+    "duration": "37:07",
+    "login_epoch": 1595964219
+  },
+  {
+    "user": "kbrazil",
+    "tty": "tty1",
+    "hostname": null,
+    "login": "Tue Jul 28 19:23:23 2020",
+    "logout": "crash",
+    "duration": "37:07",
+    "login_epoch": 1595964203
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Tue Jul 28 19:22:40 2020",
+    "logout": "Tue Jan 5 14:29:36 2021",
+    "duration": "3860:06",
+    "login_epoch": 1595964160,
+    "logout_epoch": 1609856976,
+    "duration_seconds": 13892816
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "kbrazil-mac.attlocal.net",
+    "login": "Tue Jul 28 16:27:59 2020",
+    "logout": "crash",
+    "duration": "02:54",
+    "login_epoch": 1595953679
+  },
+  {
+    "user": "kbrazil",
+    "tty": "tty1",
+    "hostname": null,
+    "login": "Tue Jul 28 16:27:26 2020",
+    "logout": "crash",
+    "duration": "02:55",
+    "login_epoch": 1595953646
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Tue Jul 28 13:22:23 2020",
+    "logout": "Tue Jan 5 14:29:36 2021",
+    "duration": "3866:07",
+    "login_epoch": 1595942543,
+    "logout_epoch": 1609856976,
+    "duration_seconds": 13914433
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "kbrazil-mac.attlocal.net",
+    "login": "Tue Jul 28 00:13:44 2020",
+    "logout": "crash",
+    "duration": "13:08",
+    "login_epoch": 1595895224
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "kbrazil-mac.attlocal.net",
+    "login": "Mon Jul 27 20:23:44 2020",
+    "logout": "Tue Jul 28 00:13:35 2020",
+    "duration": "03:49",
+    "login_epoch": 1595881424,
+    "logout_epoch": 1595895215,
+    "duration_seconds": 13791
+  },
+  {
+    "user": "kbrazil",
+    "tty": "tty1",
+    "hostname": null,
+    "login": "Mon Jul 27 20:23:17 2020",
+    "logout": "crash",
+    "duration": "16:59",
+    "login_epoch": 1595881397
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Mon Jul 27 20:04:44 2020",
+    "logout": "Tue Jan 5 14:29:36 2021",
+    "duration": "3883:24",
+    "login_epoch": 1595880284,
+    "logout_epoch": 1609856976,
+    "duration_seconds": 13976692
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "kbrazil-mac.attlocal.net",
+    "login": "Tue Jul 21 09:15:29 2020",
+    "logout": "crash",
+    "duration": "154:49",
+    "login_epoch": 1595322929
+  },
+  {
+    "user": "kbrazil",
+    "tty": "tty1",
+    "hostname": null,
+    "login": "Tue Jul 21 09:15:07 2020",
+    "logout": "crash",
+    "duration": "154:49",
+    "login_epoch": 1595322907
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Tue Jul 21 09:14:38 2020",
+    "logout": "Tue Jan 5 14:29:36 2021",
+    "duration": "4038:14",
+    "login_epoch": 1595322878,
+    "logout_epoch": 1609856976,
+    "duration_seconds": 14534098
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/1",
+    "hostname": "kbrazil-mac.attlocal.net",
+    "login": "Fri Jul 17 19:12:43 2020",
+    "logout": "Fri Jul 17 19:13:04 2020",
+    "duration": "00:00",
+    "login_epoch": 1595013163,
+    "logout_epoch": 1595013184,
+    "duration_seconds": 21
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "192.168.71.1",
+    "login": "Fri Jul 17 15:49:03 2020",
+    "logout": "crash",
+    "duration": "89:25",
+    "login_epoch": 1595000943
+  },
+  {
+    "user": "kbrazil",
+    "tty": "tty1",
+    "hostname": null,
+    "login": "Fri Jul 17 15:48:35 2020",
+    "logout": "crash",
+    "duration": "89:26",
+    "login_epoch": 1595000915
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Fri Jul 17 15:48:11 2020",
+    "logout": "Tue Jan 5 14:29:36 2021",
+    "duration": "4127:41",
+    "login_epoch": 1595000891,
+    "logout_epoch": 1609856976,
+    "duration_seconds": 14856085
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "kbrazil-mac.attlocal.net",
+    "login": "Fri Jul 17 01:52:05 2020",
+    "logout": "crash",
+    "duration": "13:56",
+    "login_epoch": 1594950725
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/1",
+    "hostname": "192.168.71.1",
+    "login": "Thu Jul 16 14:48:42 2020",
+    "logout": "crash",
+    "duration": "24:59",
+    "login_epoch": 1594910922
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "192.168.71.1",
+    "login": "Thu Jul 16 14:10:31 2020",
+    "logout": "Thu Jul 16 16:26:07 2020",
+    "duration": "02:15",
+    "login_epoch": 1594908631,
+    "logout_epoch": 1594916767,
+    "duration_seconds": 8136
+  },
+  {
+    "user": "kbrazil",
+    "tty": "tty1",
+    "hostname": null,
+    "login": "Thu Jul 16 14:09:55 2020",
+    "logout": "crash",
+    "duration": "25:38",
+    "login_epoch": 1594908595
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Thu Jul 16 08:35:02 2020",
+    "logout": "Tue Jan 5 14:29:36 2021",
+    "duration": "4158:54",
+    "login_epoch": 1594888502,
+    "logout_epoch": 1609856976,
+    "duration_seconds": 14968474
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Wed Jul 8 13:44:04 2020",
+    "logout": "crash",
+    "duration": "186:50",
+    "login_epoch": 1594215844
+  },
+  {
+    "user": "kbrazil",
+    "tty": "tty1",
+    "hostname": null,
+    "login": "Wed Jul 8 13:12:29 2020",
+    "logout": "crash",
+    "duration": "187:22",
+    "login_epoch": 1594213949
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Wed Jul 8 11:27:06 2020",
+    "logout": "Tue Jan 5 14:29:36 2021",
+    "duration": "4348:02",
+    "login_epoch": 1594207626,
+    "logout_epoch": 1609856976,
+    "duration_seconds": 15649350
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Fri Jun 26 11:53:28 2020",
+    "logout": "crash",
+    "duration": "287:33",
+    "login_epoch": 1593172408
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Fri Jun 26 11:52:15 2020",
+    "logout": "Tue Jan 5 14:29:36 2021",
+    "duration": "4635:37",
+    "login_epoch": 1593172335,
+    "logout_epoch": 1609856976,
+    "duration_seconds": 16684641
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Tue Jun 23 15:23:50 2020",
+    "logout": "Tue Jun 23 15:27:26 2020",
+    "duration": "00:03",
+    "login_epoch": 1592925830,
+    "logout_epoch": 1592926046,
+    "duration_seconds": 216
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Tue Jun 23 15:23:25 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "00:04",
+    "login_epoch": 1592925805,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 243
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "192.168.71.1",
+    "login": "Fri Jun 19 10:47:07 2020",
+    "logout": "crash",
+    "duration": "100:36",
+    "login_epoch": 1592563627
+  },
+  {
+    "user": "kbrazil",
+    "tty": "tty1",
+    "hostname": null,
+    "login": "Fri Jun 19 10:46:46 2020",
+    "logout": "crash",
+    "duration": "100:36",
+    "login_epoch": 1592563606
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Fri Jun 19 10:29:25 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "100:58",
+    "login_epoch": 1592562565,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 363483
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "192.168.71.1",
+    "login": "Mon Jun 8 10:30:52 2020",
+    "logout": "crash",
+    "duration": "263:58",
+    "login_epoch": 1591612252
+  },
+  {
+    "user": "kbrazil",
+    "tty": "tty1",
+    "hostname": null,
+    "login": "Mon Jun 8 10:30:29 2020",
+    "logout": "crash",
+    "duration": "263:58",
+    "login_epoch": 1591612229
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Mon Jun 8 10:30:06 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "364:57",
+    "login_epoch": 1591612206,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 1313842
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Tue Jun 2 12:05:38 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "507:21",
+    "login_epoch": 1591099538,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 1826510
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "192.168.71.1",
+    "login": "Tue Jun 2 08:38:47 2020",
+    "logout": "crash",
+    "duration": "03:26",
+    "login_epoch": 1591087127
+  },
+  {
+    "user": "kbrazil",
+    "tty": "tty1",
+    "hostname": null,
+    "login": "Tue Jun 2 08:38:36 2020",
+    "logout": "crash",
+    "duration": "03:27",
+    "login_epoch": 1591087116
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Tue Jun 2 06:13:40 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "513:13",
+    "login_epoch": 1591078420,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 1847628
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "192.168.71.1",
+    "login": "Sun May 24 16:10:42 2020",
+    "logout": "Sun May 24 17:18:58 2020",
+    "duration": "01:08",
+    "login_epoch": 1590336642,
+    "logout_epoch": 1590340738,
+    "duration_seconds": 4096
+  },
+  {
+    "user": "kbrazil",
+    "tty": "tty1",
+    "hostname": null,
+    "login": "Sun May 24 15:34:27 2020",
+    "logout": "crash",
+    "duration": "206:39",
+    "login_epoch": 1590334467
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Sun May 24 15:34:01 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "719:53",
+    "login_epoch": 1590334441,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 2591607
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/1",
+    "hostname": "192.168.71.1",
+    "login": "Fri May 22 13:39:48 2020",
+    "logout": "crash",
+    "duration": "49:54",
+    "login_epoch": 1590154788
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "192.168.71.1",
+    "login": "Fri May 22 13:11:05 2020",
+    "logout": "crash",
+    "duration": "50:22",
+    "login_epoch": 1590153065
+  },
+  {
+    "user": "kbrazil",
+    "tty": "tty1",
+    "hostname": null,
+    "login": "Fri May 22 13:10:36 2020",
+    "logout": "crash",
+    "duration": "50:23",
+    "login_epoch": 1590153036
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Fri May 22 12:49:57 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "770:37",
+    "login_epoch": 1590151797,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 2774251
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "192.168.71.1",
+    "login": "Fri May 22 08:44:51 2020",
+    "logout": "crash",
+    "duration": "04:05",
+    "login_epoch": 1590137091
+  },
+  {
+    "user": "kbrazil",
+    "tty": "tty1",
+    "hostname": null,
+    "login": "Fri May 22 08:44:09 2020",
+    "logout": "crash",
+    "duration": "04:05",
+    "login_epoch": 1590137049
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Fri May 22 08:43:50 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "774:43",
+    "login_epoch": 1590137030,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 2789018
+  },
+  {
+    "user": "kbrazil",
+    "tty": "tty1",
+    "hostname": null,
+    "login": "Thu May 14 16:39:13 2020",
+    "logout": "crash",
+    "duration": "184:04",
+    "login_epoch": 1589474353
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Thu May 14 16:39:00 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "958:48",
+    "login_epoch": 1589474340,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 3451708
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "192.168.71.1",
+    "login": "Wed May 13 10:23:33 2020",
+    "logout": "crash",
+    "duration": "30:15",
+    "login_epoch": 1589365413
+  },
+  {
+    "user": "kbrazil",
+    "tty": "tty1",
+    "hostname": null,
+    "login": "Wed May 13 10:22:38 2020",
+    "logout": "crash",
+    "duration": "30:16",
+    "login_epoch": 1589365358
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Wed May 13 09:51:51 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "989:35",
+    "login_epoch": 1589363511,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 3562537
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/1",
+    "hostname": "192.168.71.1",
+    "login": "Wed Apr 15 13:00:16 2020",
+    "logout": "crash",
+    "duration": "668:51",
+    "login_epoch": 1586955616
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "192.168.71.1",
+    "login": "Wed Apr 15 12:38:34 2020",
+    "logout": "Wed Apr 15 13:01:29 2020",
+    "duration": "00:22",
+    "login_epoch": 1586954314,
+    "logout_epoch": 1586955689,
+    "duration_seconds": 1375
+  },
+  {
+    "user": "kbrazil",
+    "tty": "tty1",
+    "hostname": null,
+    "login": "Wed Apr 15 12:28:46 2020",
+    "logout": "Wed Apr 15 20:44:22 2020",
+    "duration": "08:15",
+    "login_epoch": 1586953726,
+    "logout_epoch": 1586983462,
+    "duration_seconds": 29736
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Wed Apr 15 04:02:22 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "1667:25",
+    "login_epoch": 1586923342,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 6002706
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Tue Apr 14 16:02:37 2020",
+    "logout": "crash",
+    "duration": "11:59",
+    "login_epoch": 1586880157
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Tue Apr 14 16:02:17 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "1679:25",
+    "login_epoch": 1586880137,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 6045911
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Tue Apr 14 08:44:45 2020",
+    "logout": "Tue Apr 14 10:00:46 2020",
+    "duration": "01:16",
+    "login_epoch": 1586853885,
+    "logout_epoch": 1586858446,
+    "duration_seconds": 4561
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Tue Apr 14 06:57:27 2020",
+    "logout": "Tue Apr 14 08:44:39 2020",
+    "duration": "01:47",
+    "login_epoch": 1586847447,
+    "logout_epoch": 1586853879,
+    "duration_seconds": 6432
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Tue Apr 14 06:56:01 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "1688:31",
+    "login_epoch": 1586847361,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 6078687
+  },
+  {
+    "user": "kbrazil",
+    "tty": "tty1",
+    "hostname": null,
+    "login": "Tue Apr 7 17:33:04 2020",
+    "logout": "crash",
+    "duration": "157:22",
+    "login_epoch": 1586280784
+  },
+  {
+    "user": "kbrazil",
+    "tty": "tty1",
+    "hostname": null,
+    "login": "Mon Apr 6 21:22:49 2020",
+    "logout": "Mon Apr 6 22:42:06 2020",
+    "duration": "01:19",
+    "login_epoch": 1586208169,
+    "logout_epoch": 1586212926,
+    "duration_seconds": 4757
+  },
+  {
+    "user": "kbrazil",
+    "tty": "tty1",
+    "hostname": null,
+    "login": "Mon Apr 6 19:43:25 2020",
+    "logout": "Mon Apr 6 19:45:24 2020",
+    "duration": "00:01",
+    "login_epoch": 1586202205,
+    "logout_epoch": 1586202324,
+    "duration_seconds": 119
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Sat Apr 4 17:31:48 2020",
+    "logout": "crash",
+    "duration": "229:24",
+    "login_epoch": 1586021508
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Sat Apr 4 17:17:00 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "1918:10",
+    "login_epoch": 1586020620,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 6905428
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Sun Mar 29 12:42:56 2020",
+    "logout": "crash",
+    "duration": "148:34",
+    "login_epoch": 1585485776
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Tue Mar 24 11:21:56 2020",
+    "logout": "Sun Mar 29 12:42:50 2020",
+    "duration": "121:20",
+    "login_epoch": 1585048916,
+    "logout_epoch": 1585485770,
+    "duration_seconds": 436854
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Tue Mar 24 11:18:00 2020",
+    "logout": "Tue Mar 24 11:21:51 2020",
+    "duration": "00:03",
+    "login_epoch": 1585048680,
+    "logout_epoch": 1585048911,
+    "duration_seconds": 231
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Tue Mar 24 10:57:02 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "2188:30",
+    "login_epoch": 1585047422,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 7878626
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Tue Mar 17 06:56:55 2020",
+    "logout": "crash",
+    "duration": "172:00",
+    "login_epoch": 1584428215
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Tue Mar 17 05:12:10 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "2362:15",
+    "login_epoch": 1584421930,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 8504118
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Thu Mar 12 10:12:42 2020",
+    "logout": "crash",
+    "duration": "114:59",
+    "login_epoch": 1584007962
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Thu Mar 12 09:22:03 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "2478:05",
+    "login_epoch": 1584004923,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 8921125
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Wed Mar 11 13:29:24 2020",
+    "logout": "crash",
+    "duration": "19:52",
+    "login_epoch": 1583933364
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Wed Mar 11 12:19:59 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "2499:07",
+    "login_epoch": 1583929199,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 8996849
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Tue Mar 10 17:53:11 2020",
+    "logout": "crash",
+    "duration": "18:26",
+    "login_epoch": 1583862791
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Tue Mar 10 17:52:57 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "2517:34",
+    "login_epoch": 1583862777,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 9063271
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Tue Mar 10 13:09:01 2020",
+    "logout": "crash",
+    "duration": "04:43",
+    "login_epoch": 1583845741
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Tue Mar 10 13:08:45 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "2522:18",
+    "login_epoch": 1583845725,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 9080323
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Sat Mar 7 18:13:19 2020",
+    "logout": "crash",
+    "duration": "65:55",
+    "login_epoch": 1583604799
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Sat Mar 7 18:13:04 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "2588:14",
+    "login_epoch": 1583604784,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 9321264
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Thu Mar 5 14:48:23 2020",
+    "logout": "crash",
+    "duration": "51:24",
+    "login_epoch": 1583419703
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Thu Mar 5 03:02:06 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "2651:25",
+    "login_epoch": 1583377326,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 9548722
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Mon Mar 2 19:53:22 2020",
+    "logout": "crash",
+    "duration": "55:08",
+    "login_epoch": 1583178802
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Mon Mar 2 19:53:07 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "2706:34",
+    "login_epoch": 1583178787,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 9747261
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "192.168.71.1",
+    "login": "Sat Feb 29 18:43:55 2020",
+    "logout": "crash",
+    "duration": "49:09",
+    "login_epoch": 1583001835
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/1",
+    "hostname": "192.168.71.1",
+    "login": "Sat Feb 29 18:08:17 2020",
+    "logout": "Sat Feb 29 18:28:47 2020",
+    "duration": "00:20",
+    "login_epoch": 1582999697,
+    "logout_epoch": 1583000927,
+    "duration_seconds": 1230
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "192.168.71.1",
+    "login": "Sat Feb 29 15:16:16 2020",
+    "logout": "Sat Feb 29 18:42:49 2020",
+    "duration": "03:26",
+    "login_epoch": 1582989376,
+    "logout_epoch": 1583001769,
+    "duration_seconds": 12393
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Sat Feb 29 12:14:10 2020",
+    "logout": "crash",
+    "duration": "55:38",
+    "login_epoch": 1582978450
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Sat Feb 29 12:13:44 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "2762:13",
+    "login_epoch": 1582978424,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 9947624
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Fri Feb 28 13:49:56 2020",
+    "logout": "crash",
+    "duration": "22:23",
+    "login_epoch": 1582897796
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Fri Feb 28 12:56:05 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "2785:31",
+    "login_epoch": 1582894565,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 10031483
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Thu Feb 27 16:01:25 2020",
+    "logout": "crash",
+    "duration": "20:54",
+    "login_epoch": 1582819285
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Thu Feb 27 15:51:42 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "2806:35",
+    "login_epoch": 1582818702,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 10107346
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Thu Feb 27 10:50:36 2020",
+    "logout": "crash",
+    "duration": "05:01",
+    "login_epoch": 1582800636
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Wed Feb 26 20:05:10 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "2826:22",
+    "login_epoch": 1582747510,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 10178538
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Thu Feb 20 14:42:01 2020",
+    "logout": "crash",
+    "duration": "149:23",
+    "login_epoch": 1582209721
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Thu Feb 20 14:41:39 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "2975:45",
+    "login_epoch": 1582209699,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 10716349
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Mon Feb 17 17:48:58 2020",
+    "logout": "crash",
+    "duration": "68:52",
+    "login_epoch": 1581961738
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Mon Feb 17 17:48:37 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "3044:38",
+    "login_epoch": 1581961717,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 10964331
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Thu Feb 13 16:44:51 2020",
+    "logout": "crash",
+    "duration": "97:03",
+    "login_epoch": 1581612291
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Thu Feb 13 16:44:31 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "3141:42",
+    "login_epoch": 1581612271,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 11313777
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Wed Feb 5 14:23:46 2020",
+    "logout": "crash",
+    "duration": "194:20",
+    "login_epoch": 1580912626
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Wed Feb 5 11:43:15 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "3338:44",
+    "login_epoch": 1580902995,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 12023053
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Tue Feb 4 14:28:14 2020",
+    "logout": "crash",
+    "duration": "21:15",
+    "login_epoch": 1580826494
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Tue Feb 4 01:28:02 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "3372:59",
+    "login_epoch": 1580779682,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 12146366
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Mon Jan 13 17:28:13 2020",
+    "logout": "crash",
+    "duration": "511:59",
+    "login_epoch": 1578936493
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Mon Jan 13 16:16:04 2020",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "3886:11",
+    "login_epoch": 1578932164,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 13993884
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Mon Dec 16 11:15:00 2019",
+    "logout": "crash",
+    "duration": "677:01",
+    "login_epoch": 1576494900
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Mon Dec 16 11:14:30 2019",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "4563:12",
+    "login_epoch": 1576494870,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 16431178
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Wed Dec 4 21:41:25 2019",
+    "logout": "crash",
+    "duration": "277:33",
+    "login_epoch": 1575495685
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Wed Dec 4 21:40:48 2019",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "4840:46",
+    "login_epoch": 1575495648,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 17430400
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/1",
+    "hostname": null,
+    "login": "Sat Nov 16 14:40:36 2019",
+    "logout": "Sat Nov 16 14:40:41 2019",
+    "duration": "00:00",
+    "login_epoch": 1573915236,
+    "logout_epoch": 1573915241,
+    "duration_seconds": 5
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/1",
+    "hostname": null,
+    "login": "Sat Nov 16 14:39:29 2019",
+    "logout": "Sat Nov 16 14:39:42 2019",
+    "duration": "00:00",
+    "login_epoch": 1573915169,
+    "logout_epoch": 1573915182,
+    "duration_seconds": 13
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "localhost",
+    "login": "Tue Nov 12 07:19:39 2019",
+    "logout": "crash",
+    "duration": "542:21",
+    "login_epoch": 1573543179
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Tue Nov 12 07:18:40 2019",
+    "logout": "crash",
+    "duration": "542:22",
+    "login_epoch": 1573543120
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "localhost",
+    "login": "Sun Nov 10 08:21:36 2019",
+    "logout": "Mon Nov 11 15:22:36 2019",
+    "duration": "31:01",
+    "login_epoch": 1573374096,
+    "logout_epoch": 1573485756,
+    "duration_seconds": 111660
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Sat Nov 9 10:34:48 2019",
+    "logout": "Tue Nov 12 07:16:59 2019",
+    "duration": "68:42",
+    "login_epoch": 1573295688,
+    "logout_epoch": 1573543019,
+    "duration_seconds": 247331
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Sat Nov 9 10:34:26 2019",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "5451:53",
+    "login_epoch": 1573295666,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 19630382
+  },
+  {
+    "user": "kbrazil",
+    "tty": "tty1",
+    "hostname": null,
+    "login": "Fri Nov 8 07:49:24 2019",
+    "logout": "crash",
+    "duration": "26:45",
+    "login_epoch": 1573199364
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "192.168.71.1",
+    "login": "Fri Nov 8 06:29:41 2019",
+    "logout": "crash",
+    "duration": "28:04",
+    "login_epoch": 1573194581
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Fri Nov 8 06:24:27 2019",
+    "logout": "crash",
+    "duration": "28:09",
+    "login_epoch": 1573194267
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Fri Nov 8 06:14:17 2019",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "5480:13",
+    "login_epoch": 1573193657,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 19732391
+  },
+  {
+    "user": "kbrazil",
+    "tty": "tty1",
+    "hostname": null,
+    "login": "Sun Nov 3 12:20:05 2019",
+    "logout": "crash",
+    "duration": "113:54",
+    "login_epoch": 1572783605
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Sun Nov 3 11:04:48 2019",
+    "logout": "Sun Nov 3 11:05:50 2019",
+    "duration": "00:01",
+    "login_epoch": 1572779088,
+    "logout_epoch": 1572779150,
+    "duration_seconds": 62
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "192.168.71.1",
+    "login": "Sat Nov 2 19:26:52 2019",
+    "logout": "crash",
+    "duration": "131:47",
+    "login_epoch": 1572722812
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Fri Nov 1 15:14:12 2019",
+    "logout": "Sun Nov 3 11:03:55 2019",
+    "duration": "44:49",
+    "login_epoch": 1572621252,
+    "logout_epoch": 1572779035,
+    "duration_seconds": 157783
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Fri Nov 1 15:13:19 2019",
+    "logout": "Tue Jun 23 15:27:28 2020",
+    "duration": "5640:14",
+    "login_epoch": 1572621199,
+    "logout_epoch": 1592926048,
+    "duration_seconds": 20304849
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Fri Nov 1 11:16:36 2019",
+    "logout": "Fri Nov 1 11:36:43 2019",
+    "duration": "00:20",
+    "login_epoch": 1572606996,
+    "logout_epoch": 1572608203,
+    "duration_seconds": 1207
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Fri Nov 1 06:00:15 2019",
+    "logout": "Fri Nov 1 11:36:44 2019",
+    "duration": "05:36",
+    "login_epoch": 1572588015,
+    "logout_epoch": 1572608204,
+    "duration_seconds": 20189
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Tue Oct 29 18:17:00 2019",
+    "logout": "crash",
+    "duration": "59:43",
+    "login_epoch": 1572373020
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Tue Oct 29 18:16:45 2019",
+    "logout": "Fri Nov 1 11:36:44 2019",
+    "duration": "65:19",
+    "login_epoch": 1572373005,
+    "logout_epoch": 1572608204,
+    "duration_seconds": 235199
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "192.168.71.1",
+    "login": "Sat Oct 26 09:53:36 2019",
+    "logout": "Sat Oct 26 15:13:20 2019",
+    "duration": "05:19",
+    "login_epoch": 1572083616,
+    "logout_epoch": 1572102800,
+    "duration_seconds": 19184
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Fri Oct 25 18:22:10 2019",
+    "logout": "crash",
+    "duration": "95:54",
+    "login_epoch": 1572027730
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Fri Oct 25 18:21:45 2019",
+    "logout": "Fri Nov 1 11:36:44 2019",
+    "duration": "161:14",
+    "login_epoch": 1572027705,
+    "logout_epoch": 1572608204,
+    "duration_seconds": 580499
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Fri Oct 25 17:14:54 2019",
+    "logout": "Fri Oct 25 18:21:32 2019",
+    "duration": "01:06",
+    "login_epoch": 1572023694,
+    "logout_epoch": 1572027692,
+    "duration_seconds": 3998
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Fri Oct 25 17:13:49 2019",
+    "logout": "Fri Nov 1 11:36:44 2019",
+    "duration": "162:22",
+    "login_epoch": 1572023629,
+    "logout_epoch": 1572608204,
+    "duration_seconds": 584575
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Fri Oct 25 15:43:55 2019",
+    "logout": "Fri Oct 25 17:13:43 2019",
+    "duration": "01:29",
+    "login_epoch": 1572018235,
+    "logout_epoch": 1572023623,
+    "duration_seconds": 5388
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Fri Oct 25 13:29:01 2019",
+    "logout": "Fri Oct 25 17:13:45 2019",
+    "duration": "03:44",
+    "login_epoch": 1572010141,
+    "logout_epoch": 1572023625,
+    "duration_seconds": 13484
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Mon Oct 21 13:19:30 2019",
+    "logout": "Wed Oct 23 19:22:56 2019",
+    "duration": "54:03",
+    "login_epoch": 1571663970,
+    "logout_epoch": 1571858576,
+    "duration_seconds": 194606
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1062.1.2.el7.x86_64",
+    "login": "Mon Oct 21 13:17:47 2019",
+    "logout": "Wed Oct 23 19:22:58 2019",
+    "duration": "54:05",
+    "login_epoch": 1571663867,
+    "logout_epoch": 1571858578,
+    "duration_seconds": 194711
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Wed Oct 16 03:23:21 2019",
+    "logout": "crash",
+    "duration": "129:54",
+    "login_epoch": 1571196201
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Tue Oct 15 16:49:02 2019",
+    "logout": "Wed Oct 16 03:23:15 2019",
+    "duration": "10:34",
+    "login_epoch": 1571158142,
+    "logout_epoch": 1571196195,
+    "duration_seconds": 38053
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Tue Oct 15 10:39:44 2019",
+    "logout": "Tue Oct 15 16:48:54 2019",
+    "duration": "06:09",
+    "login_epoch": 1571135984,
+    "logout_epoch": 1571158134,
+    "duration_seconds": 22150
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-957.27.2.el7.x86_64",
+    "login": "Tue Oct 15 10:39:10 2019",
+    "logout": "Wed Oct 23 19:22:58 2019",
+    "duration": "200:43",
+    "login_epoch": 1571135950,
+    "logout_epoch": 1571858578,
+    "duration_seconds": 722628
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Thu Aug 15 16:05:30 2019",
+    "logout": "Thu Aug 15 16:05:50 2019",
+    "duration": "00:00",
+    "login_epoch": 1565885130,
+    "logout_epoch": 1565885150,
+    "duration_seconds": 20
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-957.27.2.el7.x86_64",
+    "login": "Thu Aug 15 16:05:10 2019",
+    "logout": "Thu Aug 15 16:05:52 2019",
+    "duration": "00:00",
+    "login_epoch": 1565885110,
+    "logout_epoch": 1565885152,
+    "duration_seconds": 42
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-957.27.2.el7.x86_64",
+    "login": "Thu Aug 15 16:00:45 2019",
+    "logout": "Thu Aug 15 16:05:52 2019",
+    "duration": "00:05",
+    "login_epoch": 1565884845,
+    "logout_epoch": 1565885152,
+    "duration_seconds": 307
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Thu Aug 15 14:25:00 2019",
+    "logout": "crash",
+    "duration": "01:35",
+    "login_epoch": 1565879100
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-957.27.2.el7.x86_64",
+    "login": "Thu Aug 15 14:24:43 2019",
+    "logout": "Thu Aug 15 16:05:52 2019",
+    "duration": "01:41",
+    "login_epoch": 1565879083,
+    "logout_epoch": 1565885152,
+    "duration_seconds": 6069
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Thu Aug 15 11:58:46 2019",
+    "logout": "crash",
+    "duration": "02:25",
+    "login_epoch": 1565870326
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-957.el7.x86_64",
+    "login": "Thu Aug 15 11:58:06 2019",
+    "logout": "Thu Aug 15 16:05:52 2019",
+    "duration": "04:07",
+    "login_epoch": 1565870286,
+    "logout_epoch": 1565885152,
+    "duration_seconds": 14866
+  },
+  {
+    "user": "kbrazil",
+    "tty": "ttyS0",
+    "hostname": null,
+    "login": "Thu Aug 15 11:57:28 2019",
+    "logout": "Thu Aug 15 11:57:40 2019",
+    "duration": "00:00",
+    "login_epoch": 1565870248,
+    "logout_epoch": 1565870260,
+    "duration_seconds": 12
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-957.el7.x86_64",
+    "login": "Thu Aug 15 11:57:07 2019",
+    "logout": "Thu Aug 15 16:05:52 2019",
+    "duration": "04:08",
+    "login_epoch": 1565870227,
+    "logout_epoch": 1565885152,
+    "duration_seconds": 14925
+  },
+  {
+    "user": "kbrazil",
+    "tty": "pts/0",
+    "hostname": "192.168.71.1",
+    "login": "Thu Aug 15 10:58:29 2019",
+    "logout": "Thu Aug 15 11:56:42 2019",
+    "duration": "00:58",
+    "login_epoch": 1565866709,
+    "logout_epoch": 1565870202,
+    "duration_seconds": 3493
+  },
+  {
+    "user": "root",
+    "tty": "tty1",
+    "hostname": null,
+    "login": "Thu Aug 15 10:57:26 2019",
+    "logout": "Thu Aug 15 11:56:42 2019",
+    "duration": "00:59",
+    "login_epoch": 1565866646,
+    "logout_epoch": 1565870202,
+    "duration_seconds": 3556
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-957.el7.x86_64",
+    "login": "Thu Aug 15 10:57:06 2019",
+    "logout": "Thu Aug 15 11:56:44 2019",
+    "duration": "00:59",
+    "login_epoch": 1565866626,
+    "logout_epoch": 1565870204,
+    "duration_seconds": 3578
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "3.10.0-1127.19.1",
+    "login": "Tue Dec 29 08:53:03 2020",
+    "logout": "Wed Jan 6 09:28:15 2021",
+    "duration": "192:35",
+    "login_epoch": 1609231983,
+    "logout_epoch": 1609925295,
+    "duration_seconds": 693312
+  },
+  {
+    "user": "user1234",
+    "tty": "pts/0",
+    "hostname": "CONSOLE:0",
+    "login": "Tue Dec 29 13:50:50 2020",
+    "logout": "crash",
+    "duration": "-4:-57",
+    "login_epoch": 1609249850
+  },
+  {
+    "user": "user1234",
+    "tty": ":0",
+    "hostname": "CONSOLE:0",
+    "login": "Tue Dec 29 13:49:58 2020",
+    "logout": "crash",
+    "duration": "-4:-56",
+    "login_epoch": 1609249798
+  },
+  {
+    "user": "user1234",
+    "tty": "pts/1",
+    "hostname": "CONSOLE:pts/0:S.0",
+    "login": "Mon Dec 28 17:24:33 2020",
+    "logout": "Mon Dec 28 17:24:46 2020",
+    "duration": "00:00",
+    "login_epoch": 1609176273,
+    "logout_epoch": 1609176286,
+    "duration_seconds": 13
+  },
+  {
+    "user": "user1234",
+    "tty": "pts/0",
+    "hostname": "CONSOLE:0",
+    "login": "Mon Dec 28 17:24:10 2020",
+    "logout": "Mon Dec 28 17:25:01 2020",
+    "duration": "00:00",
+    "login_epoch": 1609176250,
+    "logout_epoch": 1609176301,
+    "duration_seconds": 51
+  },
+  {
+    "user": "user1234",
+    "tty": "pts/2",
+    "hostname": "fe80::fd8:7309:4",
+    "login": "Mon Dec 28 12:43:33 2020",
+    "logout": "Mon Dec 28 13:14:22 2020",
+    "duration": "00:30",
+    "login_epoch": 1609159413,
+    "logout_epoch": 1609161262,
+    "duration_seconds": 1849
+  }
+]

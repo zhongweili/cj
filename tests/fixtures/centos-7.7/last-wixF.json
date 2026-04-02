@@ -1,0 +1,73 @@
+[
+  {
+    "user": "root",
+    "tty": "pts/0",
+    "hostname": "192.168.255.1",
+    "login": "Mon Jun 19 14:18:13 2023",
+    "logout": "still logged in",
+    "login_epoch": 1687184293
+  },
+  {
+    "user": "mark",
+    "tty": "pts/0",
+    "hostname": "192.168.255.1",
+    "login": "Mon Jun 19 14:15:57 2023",
+    "logout": "Mon Jun 19 14:18:00 2023",
+    "duration": "00:02",
+    "login_epoch": 1687184157,
+    "logout_epoch": 1687184280,
+    "duration_seconds": 123
+  },
+  {
+    "user": "mark",
+    "tty": "pts/0",
+    "hostname": "192.168.255.1",
+    "login": "Mon Jun 19 14:15:45 2023",
+    "logout": "Mon Jun 19 14:15:52 2023",
+    "duration": "00:00",
+    "login_epoch": 1687184145,
+    "logout_epoch": 1687184152,
+    "duration_seconds": 7
+  },
+  {
+    "user": "mark",
+    "tty": "tty1",
+    "hostname": "0.0.0.0",
+    "login": "Mon Jun 19 16:59:57 2023",
+    "logout": "still logged in",
+    "login_epoch": 1687193997
+  },
+  {
+    "user": "runlevel",
+    "tty": "(to lvl 3)",
+    "hostname": "0.0.0.0",
+    "login": "Mon Jun 19 16:59:39 2023",
+    "logout": "Mon Jun 19 14:35:00 2023",
+    "duration": "-2:-24",
+    "login_epoch": 1687193979,
+    "logout_epoch": 1687185300,
+    "duration_seconds": -8679
+  },
+  {
+    "user": "reboot",
+    "tty": "system boot",
+    "hostname": "0.0.0.0",
+    "login": "Mon Jun 19 16:59:20 2023",
+    "logout": "Mon Jun 19 14:35:00 2023",
+    "duration": "-2:-24",
+    "login_epoch": 1687193960,
+    "logout_epoch": 1687185300,
+    "duration_seconds": -8660
+  },
+  {
+    "user": "shutdown",
+    "tty": "system down",
+    "hostname": "0.0.0.0",
+    "login": "Fri Apr 14 13:46:46 2023",
+    "logout": "Fri Apr 14 13:47:12 2023",
+    "duration": "00:00",
+    "login_epoch": 1681480006,
+    "logout_epoch": 1681480032,
+    "duration_seconds": 26
+  }
+]

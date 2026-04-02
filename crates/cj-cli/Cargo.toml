@@ -1,0 +1,27 @@
+[package]
+name = "cj-cli"
+version.workspace = true
+edition.workspace = true
+description = "cj — convert CLI output, file types, and strings to JSON/YAML (Rust rewrite of jc)"
+license.workspace = true
+repository.workspace = true
+homepage.workspace = true
+keywords = ["json", "cli", "parser", "jc", "yaml"]
+categories = ["command-line-utilities", "encoding"]
+
+[[bin]]
+name = "cj"
+path = "src/main.rs"
+
+[dependencies]
+cj-core = { path = "../cj-core" }
+cj-parsers = { path = "../cj-parsers" }
+cj-utils = { path = "../cj-utils" }
+serde_json = { workspace = true }
+serde_yaml = "0.9"
+colored = "2"
+dirs = "5"
+atty = "0.2"
+
+[dev-dependencies]
+serde_json = { workspace = true }

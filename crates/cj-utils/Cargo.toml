@@ -1,0 +1,18 @@
+[package]
+name = "cj-utils"
+version.workspace = true
+edition.workspace = true
+description = "Shared utilities for cj parsers (datetime, regex helpers, caching)"
+license.workspace = true
+repository.workspace = true
+homepage.workspace = true
+keywords = ["json", "utilities", "datetime"]
+categories = ["encoding"]
+
+[dependencies]
+cj-core = { path = "../cj-core" }
+serde = { workspace = true }
+serde_json = { workspace = true }
+chrono = { version = "0.4", features = ["serde"] }
+regex = "1"
+lru = "0.12"

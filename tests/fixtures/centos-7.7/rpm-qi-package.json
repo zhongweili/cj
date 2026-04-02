@@ -1,0 +1,27 @@
+[
+  {
+    "architecture": "x86_64",
+    "build_date": "Thu 08 Aug 2019 05:47:25 PM PDT",
+    "build_epoch": 1565286445,
+    "build_epoch_utc": null,
+    "build_host": "x86-01.bsys.centos.org",
+    "description": "A GNU tool for controlling the generation of executables and other non-source files of a program from the program's source files. Make allows users to build and install packages without any significant knowledge about the details of the build process. The details about how the program should be built are provided for make in the program's makefile.",
+    "epoch": 1,
+    "group": "Development/Tools",
+    "install_date": "Wed 16 Oct 2019 09:21:42 AM PDT",
+    "install_date_epoch": 1571217702,
+    "install_date_epoch_utc": null,
+    "license": "GPLv2+",
+    "name": "make",
+    "packager": "CentOS BuildSystem <http://bugs.centos.org>",
+    "release": "24.el7",
+    "relocations": "(not relocatable)",
+    "signature": "RSA/SHA256, Thu 22 Aug 2019 02:34:59 PM PDT, Key ID 24c6a8a7f4a80eb5",
+    "size": 1160660,
+    "source_rpm": "make-3.82-24.el7.src.rpm",
+    "summary": "A GNU tool which simplifies the build process for users",
+    "url": "http://www.gnu.org/software/make/",
+    "vendor": "CentOS",
+    "version": "3.82"
+  }
+]
